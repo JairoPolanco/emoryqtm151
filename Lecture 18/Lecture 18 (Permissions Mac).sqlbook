@@ -9,6 +9,8 @@ does not have permission to access it. <br>
 To overcome these permission issues on a mac, you can copy <br>
 your files to a temporary folder. Follow these steps
 -- SQLBook: Markup
+/private/tmp/data/us_congress_members.csv
+-- SQLBook: Markup
 <font size = "5">
 
 (1) Open the terminal

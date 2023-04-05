@@ -95,10 +95,13 @@ Try it yourself!
 
 - Add two/three more rows on your own
 -- SQLBook: Code
+
+-- SQLBook: Code
 -- Add your name/nationality and your neighbors'
 -- Select a new driver id (needs to be unique)
 -- Make sure to deparate arguments by a semicolon!
 
+INSERT INTO drivers values (1, 'Jairo Polanco', 'Dominican', "24")
 
 
 -- SQLBook: Markup
